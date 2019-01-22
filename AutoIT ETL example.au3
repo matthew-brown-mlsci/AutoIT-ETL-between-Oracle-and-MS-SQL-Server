@@ -1,6 +1,6 @@
 #cs ----------------------------------------------------------------------------
 
-Copy the old information from HLAB_Lookup db to the 3 new databases for the 3 MLab environments
+Copy the old information from HLAB_Lookup db to the new Oracle database for the new MLab environment
 
 - Used during 2017 MLab (Now Allscripts Lab) upgrade to v 16.03 - This is an AutoIT-esque
   method to connect to 2 different databases (in this case, Oracle 11G & MS SQL Server) and
